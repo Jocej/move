@@ -1,0 +1,30 @@
+
+
+
+main {
+    background-color:#008080;
+    padding: 10px;
+    text-align: center;
+    font-size: 15px;
+    color: white;
+
+}
+
+section {
+    padding: 30px;
+    text-align: center;
+}
+
+footer {
+        background-color:#008080;
+        padding: 10px;
+        text-align: center;
+        font-size: 15px;
+        color: white;
+        display: flex;
+        justify-content: flex-end;
+}
+
+
+
+
